@@ -26,9 +26,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install feedparser
 
-    # Step 4: Run the Python script to update README
+    # Step 4: Run the Python script to update README (update path)
     - name: Run script to update README
-      run: python scripts/fetch_medium_posts.py
+      run: python .github/scripts/fetch_medium_posts.py  # Corrected path
 
     # Step 5: Commit changes using the built-in GITHUB_TOKEN
     - name: Commit changes
