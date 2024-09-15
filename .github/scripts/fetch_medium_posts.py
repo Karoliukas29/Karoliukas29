@@ -10,11 +10,19 @@ feed = feedparser.parse(FEED_URL)
 # Markdown formatted string for updating README
 markdown_content = ""
 
+# Helper function to clean and truncate the title
+def clean_title(title):
+    return title if len(title) <= 60 else title[:57] + "..."
+
+# Helper function to clean the URL by removing unnecessary parameters
+def clean_url(url):
+    return url.split('?')[0]  # Remove everything after the "?" character
+
 # Iterate over the feed entries (blog posts)
 for index, entry in enumerate(feed.entries[:3]):  # Limiting to 3 posts
-    # Extract the title and link
-    title = entry.title
-    link = entry.link
+    # Extract the cleaned title and URL
+    title = clean_title(entry.title)
+    link = clean_url(entry.link)
 
     # For the first post (latest), also extract the image
     if index == 0:
@@ -28,7 +36,7 @@ for index, entry in enumerate(feed.entries[:3]):  # Limiting to 3 posts
         if image_url:
             markdown_content += f"  \n![{title}]({image_url})\n\n"
     else:
-        # For other posts, only show the title and link
+        # For other posts, only show the title and cleaned URL
         markdown_content += f"- **[{title}]({link})**\n\n"
 
 # Read the existing README file
