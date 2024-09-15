@@ -84,8 +84,6 @@
   <!-- Blogs posts (after contributions) -->
   <h3 align="left">Blogs posts</h3>
   <!-- BLOG-POST-LIST:START -->
-### Blog posts
-
 - **[Building a UK Crime Mapping App with MVVM, Jetpack Compose, Ktor, Hilt, and Google Maps](https://medium.com/@karollismarmokas/building-a-uk-crime-mapping-app-with-mvvm-jetpack-compose-ktor-hilt-and-google-maps-c7d32d316d72?source=rss-438c51cb75e2------2)**
   
 ![Building a UK Crime Mapping App with MVVM, Jetpack Compose, Ktor, Hilt, and Google Maps](https://cdn-images-1.medium.com/max/1188/1*9eWD9oHfh3yVOqroZPNjyg.png)
