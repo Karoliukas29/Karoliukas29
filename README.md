@@ -84,12 +84,12 @@
   <!-- Blogs posts (after contributions) -->
   <h3 align="left">Blogs posts</h3>
   <!-- BLOG-POST-LIST:START -->
-- **[Building a UK Crime Mapping App with MVVM, Jetpack Compos...](https://medium.com/@karollismarmokas/building-a-uk-crime-mapping-app-with-mvvm-jetpack-compose-ktor-hilt-and-google-maps-c7d32d316d72)**
+- **[Building a UK Crime Mapping App with MVVM, Jetpack Compos...](https://medium.com/@karollismarmokas/building-a-uk-crime-mapping-app-with-mvvm-jetpack-compose-ktor-hilt-and-google-maps-c7d32d316d72?source=rss-438c51cb75e2------2)**
 <img src="https://cdn-images-1.medium.com/max/1188/1*9eWD9oHfh3yVOqroZPNjyg.png" alt="Building a UK Crime Mapping App with MVVM, Jetpack Compos..." width="300"/>
 
-- **[Integrating Google Maps in Android with Jetpack Compose: ...](https://medium.com/@karollismarmokas/integrating-google-maps-in-android-with-jetpack-compose-user-location-and-search-bar-a432c9074349)**
+- **[Integrating Google Maps in Android with Jetpack Compose: ...](https://medium.com/@karollismarmokas/integrating-google-maps-in-android-with-jetpack-compose-user-location-and-search-bar-a432c9074349?source=rss-438c51cb75e2------2)**
 
-- **[Returning to Android Dev: What’s Changed Since You Last C...](https://medium.com/@karollismarmokas/returning-to-android-dev-whats-changed-since-you-last-coded-550153162595)**
+- **[Returning to Android Dev: What’s Changed Since You Last C...](https://medium.com/@karollismarmokas/returning-to-android-dev-whats-changed-since-you-last-coded-550153162595?source=rss-438c51cb75e2------2)**
 
 
 <!-- BLOG-POST-LIST:END -->
