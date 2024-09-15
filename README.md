@@ -84,9 +84,21 @@
   <!-- Blogs posts (after contributions) -->
   <h3 align="left">Blogs posts</h3>
   <!-- BLOG-POST-LIST:START -->
-- [Building a UK Crime Mapping App with MVVM, Jetpack Compose, Ktor, Hilt, and Google Maps](https://medium.com/@karollismarmokas/building-a-uk-crime-mapping-app-with-mvvm-jetpack-compose-ktor-hilt-and-google-maps-c7d32d316d72?source=rss-438c51cb75e2------2)
-- [Integrating Google Maps in Android with Jetpack Compose: User Location and Search Bar…](https://medium.com/@karollismarmokas/integrating-google-maps-in-android-with-jetpack-compose-user-location-and-search-bar-a432c9074349?source=rss-438c51cb75e2------2)
-- [Returning to Android Dev: What’s Changed Since You Last Coded?](https://medium.com/@karollismarmokas/returning-to-android-dev-whats-changed-since-you-last-coded-550153162595?source=rss-438c51cb75e2------2)
+### Blog posts
+
+- **[Building a UK Crime Mapping App with MVVM, Jetpack Compose, Ktor, Hilt, and Google Maps](https://medium.com/@karollismarmokas/building-a-uk-crime-mapping-app-with-mvvm-jetpack-compose-ktor-hilt-and-google-maps-c7d32d316d72?source=rss-438c51cb75e2------2)**
+  
+![Building a UK Crime Mapping App with MVVM, Jetpack Compose, Ktor, Hilt, and Google Maps](https://cdn-images-1.medium.com/max/1188/1*9eWD9oHfh3yVOqroZPNjyg.png)
+
+- **[Integrating Google Maps in Android with Jetpack Compose: User Location and Search Bar…](https://medium.com/@karollismarmokas/integrating-google-maps-in-android-with-jetpack-compose-user-location-and-search-bar-a432c9074349?source=rss-438c51cb75e2------2)**
+  
+![Integrating Google Maps in Android with Jetpack Compose: User Location and Search Bar…](https://cdn-images-1.medium.com/max/429/1*KgmZuypYXD_6drOCeyCyIg.png)
+
+- **[Returning to Android Dev: What’s Changed Since You Last Coded?](https://medium.com/@karollismarmokas/returning-to-android-dev-whats-changed-since-you-last-coded-550153162595?source=rss-438c51cb75e2------2)**
+  
+![Returning to Android Dev: What’s Changed Since You Last Coded?](https://cdn-images-1.medium.com/max/1024/1*tSuXO5yeiv4pyb2hUepn0A.png)
+
+
 <!-- BLOG-POST-LIST:END -->
 
   <!-- Clear floats to avoid overlapping issues -->
