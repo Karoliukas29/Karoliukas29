@@ -8,7 +8,7 @@ FEED_URL = "https://medium.com/feed/@karollismarmokas"
 feed = feedparser.parse(FEED_URL)
 
 # Markdown formatted string for updating README
-markdown_content = "### Blog posts\n\n"
+markdown_content = ""
 
 # Iterate over the feed entries (blog posts)
 for index, entry in enumerate(feed.entries[:3]):  # Limiting to 3 posts
