@@ -18,7 +18,7 @@
 <!-- About Me Section -->
 - 🔭 I’m currently working on **apps that teach valuable development skills**  
 - 🌱 I’m currently learning **Kotlin Multiplatform**  
-- 👯 I’m looking to collaborate on **backend developers on innovative, secure apps**  
+- 👯 I’m looking to collaborate with **backend developers**  
 - 📝 I regularly write articles on [https://medium.com/@karollismarmokas](https://medium.com/@karollismarmokas)  
 - 💬 Ask me about **Android development, mobile security**  
 - 📫 How to reach me **karollismarmokas@gmail.com**  
