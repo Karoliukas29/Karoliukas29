@@ -1,3 +1,10 @@
+name: Update README with Latest Medium Posts (With Images)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight
+  workflow_dispatch:  # Allow manual triggering of the workflow
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -32,4 +39,4 @@ jobs:
         git commit -m "Updated latest blog posts with images"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use built-in GitHub token
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
