@@ -31,11 +31,12 @@ for index, entry in enumerate(feed.entries[:3]):  # Limiting to 3 posts
         image_match = re.search(r'<img.*?src="(.*?)"', content)
         image_url = image_match.group(1) if image_match else None
 
-        # Build the Markdown block for the latest post with an image
+        # Build the Markdown block for the latest post with a clickable title
         markdown_content += f"- **[{title}]({link})**\n"
+        
+        # Display the image after the title if available
         if image_url:
-            # Ensure image formatting is consistent and clean
-            markdown_content += f"  \n<img src=\"{image_url}\" alt=\"{title}\" width=\"400\" />\n\n"
+            markdown_content += f"  \n![{title}]({image_url})\n\n"
     else:
         # For other posts, only show the title and cleaned URL
         markdown_content += f"- **[{title}]({link})**\n\n"
