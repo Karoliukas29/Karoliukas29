@@ -14,11 +14,16 @@ markdown_content = ""
 def clean_title(title):
     return title if len(title) <= 60 else title[:57] + "..."
 
+# Helper function to clean the URL by removing unnecessary parameters
+def clean_url(url):
+    # Use regex to clean unnecessary Medium parameters (remove ? and everything after)
+    return re.sub(r'\?.*', '', url)
+
 # Iterate over the feed entries (blog posts)
 for index, entry in enumerate(feed.entries[:3]):  # Limiting to 3 posts
     # Extract the cleaned title and URL
     title = clean_title(entry.title)
-    link = entry.link  # Use the full link directly, without cleaning
+    link = clean_url(entry.link)
 
     # For the first post (latest), also extract the image
     if index == 0:
