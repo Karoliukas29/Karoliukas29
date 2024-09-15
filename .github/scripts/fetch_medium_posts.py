@@ -34,9 +34,9 @@ for index, entry in enumerate(feed.entries[:3]):  # Limiting to 3 posts
         # Build the Markdown block for the latest post with a clickable title
         markdown_content += f"- **[{title}]({link})**\n"
         
-        # Display the image after the title if available
+        # Display the image after the title if available, and control the size
         if image_url:
-            markdown_content += f"  \n![{title}]({image_url})\n\n"
+            markdown_content += f'<img src="{image_url}" alt="{title}" width="300"/>\n\n'
     else:
         # For other posts, only show the title and cleaned URL
         markdown_content += f"- **[{title}]({link})**\n\n"
