@@ -84,12 +84,12 @@
   <!-- Blogs posts (after contributions) -->
   <h3 align="left">Blogs posts</h3>
   <!-- BLOG-POST-LIST:START -->
+- **[Building AI-Powered Android Apps with Google ML Kit: A St...](https://medium.com/@karollismarmokas/building-ai-powered-android-apps-with-google-ml-kit-a-step-by-step-guide-04727cbf6e54?source=rss-438c51cb75e2------2)**
+<img src="https://cdn-images-1.medium.com/max/727/1*qNRRNDKDzfmdobSUOb11KQ.png" alt="Building AI-Powered Android Apps with Google ML Kit: A St..." width="300"/>
+
 - **[Android App Development is Not Frontend Development: Here...](https://medium.com/@karollismarmokas/android-app-development-is-not-frontend-development-heres-why-8cd91687e6fe?source=rss-438c51cb75e2------2)**
-<img src="https://cdn-images-1.medium.com/max/918/1*U1QB_lckjcXr9aUdJHpR_A.png" alt="Android App Development is Not Frontend Development: Here..." width="300"/>
 
 - **[Building a UK Crime Mapping App with MVVM, Jetpack Compos...](https://medium.com/@karollismarmokas/building-a-uk-crime-mapping-app-with-mvvm-jetpack-compose-ktor-hilt-and-google-maps-c7d32d316d72?source=rss-438c51cb75e2------2)**
-
-- **[Integrating Google Maps in Android with Jetpack Compose: ...](https://medium.com/@karollismarmokas/integrating-google-maps-in-android-with-jetpack-compose-user-location-and-search-bar-a432c9074349?source=rss-438c51cb75e2------2)**
 
 
 <!-- BLOG-POST-LIST:END -->
