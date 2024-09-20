@@ -84,12 +84,12 @@
   <!-- Blogs posts (after contributions) -->
   <h3 align="left">Blogs posts</h3>
   <!-- BLOG-POST-LIST:START -->
+- **[Building Your App from Scratch: Step 1- Selecting a Winni...](https://medium.com/@karollismarmokas/building-your-app-from-scratch-step-1-selecting-a-winning-app-idea-7c0c6e2901f9?source=rss-438c51cb75e2------2)**
+<img src="https://cdn-images-1.medium.com/max/1264/1*fxA1CMmldVC64KoYr2WKww.png" alt="Building Your App from Scratch: Step 1- Selecting a Winni..." width="300"/>
+
 - **[Building AI-Powered Android Apps with Google ML Kit: A St...](https://medium.com/@karollismarmokas/building-ai-powered-android-apps-with-google-ml-kit-a-step-by-step-guide-04727cbf6e54?source=rss-438c51cb75e2------2)**
-<img src="https://cdn-images-1.medium.com/max/727/1*qNRRNDKDzfmdobSUOb11KQ.png" alt="Building AI-Powered Android Apps with Google ML Kit: A St..." width="300"/>
 
 - **[Android App Development is Not Frontend Development: Here...](https://medium.com/@karollismarmokas/android-app-development-is-not-frontend-development-heres-why-8cd91687e6fe?source=rss-438c51cb75e2------2)**
-
-- **[Building a UK Crime Mapping App with MVVM, Jetpack Compos...](https://medium.com/@karollismarmokas/building-a-uk-crime-mapping-app-with-mvvm-jetpack-compose-ktor-hilt-and-google-maps-c7d32d316d72?source=rss-438c51cb75e2------2)**
 
 
 <!-- BLOG-POST-LIST:END -->
